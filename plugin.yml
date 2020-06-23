@@ -1,6 +1,0 @@
-name: SecretOP
-version: 3.0
-main: edyfz11\main\Loader
-api: [1.0.0, 2.0.0, 3.0.0]
-author: edyfz11
-description: "fixing bugs"
